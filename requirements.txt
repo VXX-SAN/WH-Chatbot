@@ -1,0 +1,8 @@
+streamlit
+fastembed
+groq
+supabase
+pypdf
+EbookLib
+beautifulsoup4
+python-docx
